@@ -19,7 +19,6 @@ Step 9: The first thing you want to do is change your directory. Use the command
 Step 10: Once you have changed your directory you need to make a folder where you will keep all of your ruby files (not necessary but recommended). Type the command “mkdir name-of-folder”
 Step 11: Once you have created a new folder you need to change the directory again into that folder. Type the command “cd name-of-folder’
 Step 12: Go into the folder and save the source code file. 
-
 Step 13: Call file but putting the command, Ruby animal.rb
 
 
