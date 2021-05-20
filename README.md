@@ -24,7 +24,7 @@ Step 13: Call file but putting the command, Ruby animal.rb
 
 
 
-#Team Members:   
+# Team Members:   
 Lauren Arthur  
 Ashlyn Averett  
 Sharon Deloach  
