@@ -1,10 +1,10 @@
 # Ruby-Tamagotchi
 
-Goal
+# Goal
 Our goal for this project was to create a virtual pet using the Ruby programming language. The user takes care of a virtual pet by feeding the pet, taking it out on walks, and brushing the pet. If the pet’s health gets below 0 then the pet will die and the game will be over. 
 
 
-User Manual 
+# User Manual 
 
 Installing Ruby: 
 Step 1: Visit https://rubyinstaller.org/ and click the “Download” button.
@@ -25,7 +25,7 @@ Step 13: Call file but putting the command, Ruby animal.rb
 
 
 
-Team Members:
+#Team Members: 
 Lauren Arthur
 Ashlyn Averett
 Sharon Deloach
